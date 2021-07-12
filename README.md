@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kimyoungi99/kimyoungi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimyoungi99&hide=stars&count_private=true&show_icons=true&theme=dracula">
+</p>
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning
+- JAVA & Spring Framework
+- pyTorch
+- Algorithm Problem Solving (Competitive Programming)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on*
+- Project Verpic (Backend Developer)
+
+### 📫 How to reach me:
+- kimyoungi99@naver.com / yk0318ha@cau.ac.kr
