@@ -22,14 +22,8 @@
 
 
 ### 🌱 I’m currently learning
-- **JAVA & Spring Framework**
-<br>  Methods to write clean OOP code
-<br> Functional programming / Lamda functions
-- **Problem Solving (Competitive Programming)**
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yk0318ha"/>
-<img src="https://leetcode-stats-six.vercel.app/api?username=kimyoungi99"/>
-</p>
+- JAVA & Spring Framework
+- Problem Solving (Competitive Programming)
 
 ### 🔭 I’m currently working on*
 - Project Verpic (Backend Developer)
