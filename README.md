@@ -23,8 +23,8 @@
 
 ### 🌱 I’m currently learning
 - **JAVA & Spring Framework**
-  Methods to write clean OOP code
-  Functional programming / Lamda functions
+<br>  Methods to write clean OOP code
+<br> Functional programming / Lamda functions
 - Problem Solving (Competitive Programming)
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yk0318ha"/>
