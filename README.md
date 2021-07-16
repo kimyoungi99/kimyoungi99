@@ -25,7 +25,7 @@
 - JAVA & Spring Framework
 - Problem Solving (Competitive Programming)
 
-### 🔭 I’m currently working on*
+### 🔭 I’m currently working on
 - Project Verpic (Backend Developer)
 
 ### 📫 How to reach me:
