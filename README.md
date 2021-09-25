@@ -25,8 +25,5 @@
 - JAVA & Spring Framework
 - Problem Solving (Competitive Programming)
 
-### 🔭 I’m currently working on
-- Project Verpic (Backend Developer)
-
 ### 📫 How to reach me:
 - kimyoungi99@naver.com / yk0318ha@cau.ac.kr
