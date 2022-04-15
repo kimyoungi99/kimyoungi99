@@ -4,3 +4,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimyoungi99&hide=stars&count_private=true&show_icons=true&theme=dracula">
 </p>
+
+Currently working at [kakaoenterprise](https://www.kakaoenterprise.com/) as a backend-dev intern
